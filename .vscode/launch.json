@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Pro9gramming Matrial/C++ DSA Placement Course/Linked List",
-      "program": "d:/Pro9gramming Matrial/C++ DSA Placement Course/Linked List/build/Debug/outDebug",
+      "cwd": "d:/Pro9gramming Matrial/C++ DSA Placement Course/Stack",
+      "program": "d:/Pro9gramming Matrial/C++ DSA Placement Course/Stack/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

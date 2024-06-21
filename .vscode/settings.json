@@ -60,6 +60,9 @@
     "iostream": "cpp",
     "ostream": "cpp",
     "vector": "cpp",
-    "list": "cpp"
+    "list": "cpp",
+    "*.tcc": "cpp",
+    "cmath": "cpp",
+    "cstring": "cpp"
   }
 }
